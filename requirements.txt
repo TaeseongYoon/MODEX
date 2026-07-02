@@ -1,0 +1,7 @@
+torch==2.9.1+cu126
+torchvision==0.24.1+cu126
+numpy==2.3.5
+tqdm==4.67.1
+scikit-learn
+pillow
+ddu-dirty-mnist

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Courtroom Analogy: New Perspective on Uncertainty-Aware Classification"
+authors:
+  - family-names: Yoon
+    given-names: Taeseong
+  - family-names: Kim
+    given-names: Heeyoung
+date-released: 2026
+url: "https://arxiv.org/abs/2605.25616"
+preferred-citation:
+  type: article
+  title: "Courtroom Analogy: New Perspective on Uncertainty-Aware Classification"
+  authors:
+    - family-names: Yoon
+      given-names: Taeseong
+    - family-names: Kim
+      given-names: Heeyoung
+  journal: "arXiv preprint arXiv:2605.25616"
+  year: 2026

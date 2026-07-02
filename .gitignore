@@ -1,0 +1,9 @@
+data/
+saved_models_modex/*
+saved_results_modex/*
+!saved_models_modex/.gitkeep
+!saved_results_modex/.gitkeep
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
